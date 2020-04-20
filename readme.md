@@ -78,7 +78,7 @@ git commit
 注意不要使用 `git commit -m`.  
 
 #### commit 规则
-使用 `git commit` 会打开文本编辑器，试系统和配置不同可能为 nano、vim、VSCode 等。各个编辑器的用法忽视。  
+使用 `git commit` 会打开文本编辑器，视系统和配置不同可能为 nano、vim、VSCode 等。各个编辑器的用法忽视。  
 
 请按照下面的格式书写 commit：
 ```
